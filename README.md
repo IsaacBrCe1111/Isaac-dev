@@ -9,6 +9,4 @@
 - Git
 
 ## Projetos em construção
-- VerseKeeper (App de versículos)
-- WeatherApp
-- TaskFlow (lista de tarefas)
+
